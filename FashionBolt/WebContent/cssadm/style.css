@@ -1,0 +1,573 @@
+/*--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+body a{
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+	font-weight:400;
+}
+input[type="button"]{
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+//* input[type="submit"] */
+.submitted{
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+  /* Setup */
+  position: relative;
+}
+
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  /* Center vertically and horizontally */
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+   margin-top: 2.5em /* Apply negative top and left margins to truly center the element */
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;		
+	font-weight:400;
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+	
+}
+@font-face{
+	font-family:'Snippet';
+	src: url('../fonts/Snippet.ttf');
+}	
+.clear {
+	clear:both;
+}
+p{
+	margin:0;
+}
+
+ul{
+	margin:0;
+	padding:0;
+}
+
+label{
+	margin:0;
+}
+img {
+    width: 100%;
+}
+body {
+    text-align: center;
+	margin:0;
+
+}
+/*--end reset--*/
+/*--header--*/
+.main-container {
+    padding: 0;
+	background: rgba(30, 29, 29, 0.4);
+
+}
+/*--header--*/
+.header-w3l {
+    padding: 2em 0 2em;
+}
+.header-w3l h1{
+	font-size:3em;
+    color:#fff;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+	font-family: 'Snippet', sans-serif;
+}
+/*--//header--*/
+
+/*--main--*/
+.main-content-agile {
+    margin: 0 auto;
+    background:rgba(12, 12, 12, 0.81);
+    width: 34%;
+}
+Learn to code — free 3,000-hour curriculum
+
+MAY 15, 2020
+/
+#CSS
+How to Center Anything with CSS - Align a Div, Text, and More
+Kris Koishigawa
+Kris Koishigawa
+How to Center Anything with CSS - Align a Div, Text, and More
+Centering things is one of the most difficult aspects of CSS.
+
+The methods themselves usually aren't difficult to understand. Instead, it's more due to the fact that there are so many ways to center things.
+
+The method you use can vary depending on the HTML element you're trying to center, or whether you're centering it horizontally or vertically.
+
+In this tutorial, we'll go over how to center different elements horizontally, vertically, and both vertically and horizontally.
+
+How to Center Horizontally
+Centering elements horizontally is generally easier than centering them vertically. Here are some common elements you may want to center horizontally and different ways to do it.
+
+How to Center Text with the CSS Text-Align Center Property
+To center text or links horizontally, just use the text-align property with the value center:
+
+<div class="container">
+  <p>Hello, (centered) World!</p>
+</div>
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+}
+
+p {
+  /* Center horizontally*/
+  text-align: center;
+}
+image-15
+How to Center a Div with CSS Margin Auto
+Use the shorthand margin property with the value 0 auto to center block-level elements like a div horizontally:
+
+<div class="container">
+  <div class="child"></div>
+</div>
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+}
+
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  /* Center horizontally*/
+  margin: 0 auto;
+}
+box-centered-horizontally
+How to Center a Div Horizontally with Flexbox
+Flexbox is the most modern way to center things on the page, and makes designing responsive layouts much easier than it used to be. However, it's not fully supported in some legacy browsers like Internet Explorer.
+
+To center an element horizontally with Flexbox, just apply display: flex and justify-content: center to the parent element:
+
+<div class="container">
+  <div class="child"></div>
+</div>
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+  /* Center child horizontally*/
+  display: flex;
+  justify-content: center;
+}
+
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+box-centered-horizontally-1
+How to Center Vertically
+Centering elements vertically without modern methods like Flexbox can be a real chore. Here we'll go over some of the older methods to center things vertically first, then show you how to do it with Flexbox.
+
+How to Center a Div Vertically with CSS Absolute Positioning and Negative Margins
+For a long time this was the go-to way to center things vertically. For this method you must know the height of the element you want to center.
+
+First, set the position property of the parent element to relative.
+
+Then for the child element, set the position property to absolute and top to 50%:
+
+<div class="container">
+  <div class="child"></div>
+</div>
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+  /* Setup */
+  position: relative;
+}
+
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  /* Center vertically */
+  position: absolute;
+  top: 50%;
+}
+box-centered-vertically-1
+But that really just vertically centers the top edge of the child element.
+
+To truly center the child element, set the margin-top property to -(half the child element's height):
+
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+  /* Setup */
+  position: relative;
+}
+
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  /* Center vertically */
+  position: absolute;
+  top: 50%;
+  margin-top: -25px; /* Half this element's height */
+}
+box-centered-vertically-final
+How to Center a Div Vertically with Transform and Translate
+If you don't know the height of the element you want to center (or even if you do), this method is a nifty trick.
+
+This method is very similar to the negative margins method above. Set the position property of the parent element to relative.
+
+For the child element, set the position property to absolute and set top to 50%. Now instead of using a negative margin to truly center the child element, just use transform: translate(0, -50%):
+
+<div class="container">
+  <div class="child"></div>
+</div>
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+  /* Setup */
+  position: relative;
+}
+
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  /* Center vertically */
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+box-centered-vertically-final-1
+Note that translate(0, -50%) is shorthand for translateX(0) and translateY(-50%). You could also write transform: translateY(-50%) to center the child element vertically.
+
+How to Center a Div Vertically with Flexbox
+Like centering things horizontally, Flexbox makes it super easy to center things vertically.
+
+To center an element vertically, apply display: flex and align-items: center to the parent element:
+
+<div class="container">
+  <div class="child"></div>
+</div>
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+  /* Center vertically */
+  display: flex;
+  align-items: center;
+}
+
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+box-centered-vertically-final-2
+How to Center Both Vertically and Horizontally
+How to Center a Div Vertically and Horizontally with CSS Absolute Positioning and Negative Margins
+This is very similar to the method above to center an element vertically. Like last time, you must know the width and height of the element you want to center.
+
+Set the position property of the parent element to relative.
+
+Then set the child's position property to absolute, top to 50%, and left to 50%. This just centers the top left corner of the child element vertically and horizontally.
+
+To truly center the child element, apply a negative top margin set to half the child element's height, and a negative left margin set to half the child element's width:
+
+
+
+.w3ls-pro h2 {
+    font-size: 1.7em;
+    color: #fcb50e;
+    letter-spacing: 3px;
+    padding: 1em 0;
+    font-weight: 600;
+	text-transform:uppercase;
+	font-family: 'Snippet', sans-serif;
+}
+.sub-main-w3ls{
+	position:relative;
+	 padding: 2.5em;
+}
+.sub-main-w3ls input[type="text"], .sub-main-w3ls input[type="password"] {
+	outline: none;
+    font-size: 1em;
+    border: none;
+    background: #eeeeee;
+    width: 82.5%;
+    color: #000;
+    padding: 1em 3em 1em 1em;
+    letter-spacing: 1px;
+    font-family: 'Snippet', sans-serif;
+}
+.sub-main-w3ls input[type="password"]{
+	margin-top: 1.5em;
+}
+.sub-main-w3ls input[type="submit"] {
+    margin-top: 2.5em
+}
+
+span.icon1, span.icon2 {
+    color: #f1a008;
+    font-size: 1em;
+    position: absolute;
+    display: block;
+    text-align: center;
+}
+span.icon1 {
+    top: 12%;
+}
+span.icon2 {
+    top: 28%;
+}
+span.icon1, span.icon2{
+	right: 4.2em;
+}
+.checkbox-w3 {
+    margin:2em 0 2.5em;
+}
+span.check-w3 {
+    float: left;
+    color: #fff;
+    font-size: 1em;
+    letter-spacing: 1px;
+	font-family: 'Snippet', sans-serif;
+}
+.checkbox-w3 a {
+    color: #fff;
+    float: right;
+    font-size: 1em;
+	text-decoration: none;
+	font-family: 'Snippet', sans-serif;
+}
+/*-- social-icons --*/
+.social-icons ul li {
+    display: inline-block;
+}
+.social-icons ul li i {
+    font-size: 0.9em;
+    line-height: 2.8em;
+    text-align: center;
+    margin: 0 5px;
+    width: 38px;
+    height: 38px;
+    border-radius: 10%;
+    color: #fff;
+    background: transparent;
+    border: 3px solid #efe8e8;
+}
+.social-icons i.fa.fa-facebook:hover {
+    background: #3b5998;
+    text-shadow: 0px 0px 15px #3b5998;
+    transition: all 0.5s cubic-bezier(0.27, 0.38, 0.58, 1);
+}
+.social-icons i.fa.fa-twitter:hover{
+	background: #1da1f2;
+    text-shadow: 0px 0px 15px #1da1f2;
+    transition: all 0.5s cubic-bezier(0.27, 0.38, 0.58, 1);
+}
+.social-icons i.fa.fa-google-plus:hover{
+	background: #dd4b39;
+    text-shadow: 0px 0px 15px #dd4b39;
+    transition: all 0.5s cubic-bezier(0.27, 0.38, 0.58, 1);
+	
+}
+.social-icons  i.fa.fa-pinterest:hover{
+	background: #bd081c;
+    text-shadow: 0px 0px 15px #bd081c;
+    transition: all 0.5s cubic-bezier(0.27, 0.38, 0.58, 1);	
+	
+}
+/*--social-icons--*/
+
+/*--footer--*/
+.footer {
+    padding: 2.05em 0;
+}
+
+.footer p {
+    font-size: 1em;
+    color: #fff;
+    letter-spacing: 2px;
+	font-family: 'Snippet', sans-serif;
+}
+.footer p a {
+      color: #e8a505;
+	  text-decoration:none;
+	  font-family: 'Snippet', sans-serif;
+}
+.footer p a:hover {
+   text-decoration:underline;
+   
+}
+/*--/footer--*/
+/*--responsive--*/
+@media(max-width:1920px){
+	.header-w3l {
+    padding: 10em 0 3em;
+}
+.footer {
+    padding: 3em 0 13em;
+}
+@media(max-width:1680px){
+.header-w3l {
+    padding: 6em 0 4em;
+}
+.footer {
+    padding: 5em 0 2.5em;
+}
+.main-content-agile {
+    margin: 2em auto;
+	}
+}
+@media(max-width:1600px){
+	.header-w3l {
+    padding: 2em 0 2em;
+}
+.footer {
+    padding: 2em 0 1.5em;
+}
+}
+@media(max-width:1440px){
+	.header-w3l {
+    padding: 2em 0;
+}
+}
+@media(max-width:1280px){
+	.main-content-agile {
+	width: 40%;	
+	}
+}
+@media(max-width:1024px){
+	.main-content-agile {
+    width: 50%;
+}
+}
+@media(max-width:800px){
+	.main-content-agile {
+    width: 60%;
+}
+}
+@media(max-width:768px){
+	
+}
+@media(max-width:736px){
+	
+}
+@media(max-width:667px){
+	.main-content-agile {
+    width: 70%;
+}
+}
+@media(max-width:600px){
+	.header-w3l h1 {
+    font-size: 2.8em;
+	}
+	span.icon1, span.icon2 {
+		right: 4.2em;
+	}
+	span.icon2 {
+    top: 29%;
+	}
+	span.icon1 {
+    top: 12%;
+	}
+}
+@media(max-width:568px){
+	.header-w3l h1 {
+    font-size: 2.8em;
+	}
+	.checkbox-w3 a {
+	    padding: 0.2em 0;
+	}
+}
+@media(max-width:480px){
+	.main-content-agile {
+		width: 80%;
+	}
+	span.icon1, span.icon2 {
+    right: 3em;
+}
+}
+@media(max-width:414px){
+	.main-content-agile {
+		width: 90%;
+	}
+	.checkbox-w3 a {
+		padding: 0.1em 0;
+	}
+}
+@media(max-widht:384px){
+	.main-content-agile {
+		width: 95%;
+	}
+}
+@media(max-width:375px){
+	.main-content-agile {
+		width: 97.5%;
+	}
+}
+@media(max-width:320px){
+	.header-w3l h1 {
+    font-size: 2.5em;
+}
+span.check-w3 {
+     float: none;
+    display: block;
+    }
+	.checkbox-w3 a {
+      float: none;
+	display:block;
+	text-align:center;
+	}
+}
+
+/*--/responsive--*/

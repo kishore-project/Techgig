@@ -1,0 +1,43 @@
+clothes,fname,lname,area,address,qun,quality,wear,size,plan,totInvest,shopname,season,report,uploadDate,user,upiId,expdat,paymentstatus,margin
+summer,kathir,kemu,ernavor,"12,bajani kovil street,chennai 600090",150,grade1,suit,32,startup,1570200,skylmnt,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,kathir,kemu,Chrompet,"12,bajani kovil street,chennai 600091",151,grade1,suit,32,startup,1570200,skylmnt,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,kathir,kemu,Pallavaram,"12,bajani kovil street,chennai 600092",152,grade1,suit,32,startup,1570200,skylmnt,summer,1,12-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,kathir,kemu,Kodamabakam,"12,bajani kovil street,chennai 600093",153,grade1,suit,32,startup,1570200,skylmnt,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,kathir,kemu,Washermenpet,"12,bajani kovil street,chennai 600094",154,grade1,suit,34,startup,1570200,skylmnt,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,kathir,kemu,Mint Street,"12,bajani kovil street,chennai 600095",155,grade1,suit,34,startup,1570200,skylmnt,summer,1,21-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,kathir,kemu,Madhavaram,"12,bajani kovil street,chennai 600096",156,grade1,suit,34,startup,1570200,skylmnt,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,kathir,kemu,Minjur,"12,bajani kovil street,chennai 600097",157,grade1,suit,34,startup,1570200,skylmnt,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+rainy,kathir,kemu,ernavor,"12,bajani kovil street,chennai 600098",158,grade1,suit,34,startup,1570200,skylmnt,rainy,1,11-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+rainy,kathir,kemu,thiruvanmiyur,"12,bajani kovil street,chennai 600099",159,grade1,t-shirt,36,startup,1570200,skylmnt,rainy,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+rainy,kathir,kemu,Kasimedu,"12,bajani kovil street,chennai 600100",160,grade1,t-shirt,36,startup,1570200,skylmnt,rainy,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,kathir,kemu,Royapuram,"12,bajani kovil street,chennai 600101",161,grade1,t-shirt,36,startup,1570200,skylmnt,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,kathir,kemu,Perambur,"12,bajani kovil street,chennai 600102",162,grade1,t-shirt,36,startup,1570200,skylmnt,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,kathir,kemu,Parrys Corner ,"12,bajani kovil street,chennai 600103",163,grade1,t-shirt,32,startup,1570200,skylmnt,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,kathir,kemu,Anna nagar,"12,bajani kovil street,chennai 600104",164,grade1,t-shirt,32,startup,1570200,skylmnt,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,kathir,kemu,Ashok nagar,"12,bajani kovil street,chennai 600105",165,grade1,casualwear,34,startup,1570200,skylmnt,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,kathir,kemu,Guindy,"12,bajani kovil street,chennai 600106",166,grade1,casualwear,34,startup,1570200,skylmnt,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,kathir,kemu,Madhavaram,"12,bajani kovil street,chennai 600107",167,grade1,casualwear,34,startup,1570200,skylmnt,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,kathir,kemu,ernavor,"12,bajani kovil street,chennai 600108",168,grade1,formalwear,34,startup,1570200,skylmnt,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+winter,kathir,kemu,ernavor,"12,bajani kovil street,chennai 600109",169,grade1,formalwear,38,startup,1570200,skylmnt,winter,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+winter,kathir,kemu,Ekkatuthangal,"12,bajani kovil street,chennai 600110",170,grade1,formalwear,38,startup,1570200,skylmnt,winter,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,nila,b,ernavor,"5,muthaya street chennai 600541",150,grade2,suit,32,startup,1170200,minato,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,nila,kemu,Chrompet,"5,muthaya street chennai 600542",151,grade1,suit,32,startup,1170200,minato,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,nila,kemu,Pallavaram,"5,muthaya street chennai 600543",152,grade1,suit,32,startup,1170200,minato,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,nila,kemu,Kodamabakam,"5,muthaya street chennai 600544",153,grade1,suit,32,startup,1170200,minato,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,nila,kemu,Washermenpet,"5,muthaya street chennai 600545",154,grade1,suit,34,startup,1170200,minato,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,nila,kemu,Mint Street,"5,muthaya street chennai 600546",155,grade1,suit,34,startup,1170200,minato,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,nila,kemu,Madhavaram,"5,muthaya street chennai 600547",156,grade1,suit,34,startup,1170200,minato,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+summer,nila,kemu,Minjur,"5,muthaya street chennai 600548",157,grade1,suit,34,startup,1170200,minato,summer,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+rainy,nila,kemu,ernavor,"5,muthaya street chennai 600549",158,grade1,suit,34,startup,1170200,minato,rainy,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+rainy,nila,kemu,thiruvanmiyur,"5,muthaya street chennai 600550",159,grade1,t-shirt,36,startup,1170200,minato,rainy,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+rainy,nila,kemu,Kasimedu,"5,muthaya street chennai 600551",160,grade1,t-shirt,36,startup,1170200,minato,rainy,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,nila,kemu,Royapuram,"5,muthaya street chennai 600552",161,grade1,t-shirt,36,startup,1170200,minato,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,nila,kemu,Perambur,"5,muthaya street chennai 600553",162,grade1,t-shirt,36,startup,1170200,minato,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,nila,kemu,Parrys Corner ,"5,muthaya street chennai 600554",163,grade1,t-shirt,32,startup,1170200,minato,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,nila,kemu,Anna nagar,"5,muthaya street chennai 600555",164,grade1,t-shirt,32,startup,1170200,minato,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,nila,kemu,Ashok nagar,"5,muthaya street chennai 600556",165,grade1,casualwear,34,startup,1170200,minato,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,nila,kemu,Guindy,"5,muthaya street chennai 600557",166,grade1,casualwear,34,startup,1170200,minato,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,nila,kemu,Madhavaram,"5,muthaya street chennai 600558",167,grade1,casualwear,34,startup,1170200,minato,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+sunny,nila,kemu,ernavor,"5,muthaya street chennai 600559",168,grade1,formalwear,34,startup,1170200,minato,sunny,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+winter,nila,kemu,ernavor,"5,muthaya street chennai 600560",169,grade1,formalwear,38,startup,1170200,minato,winter,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null
+winter,nila,kemu,Ekkatuthangal,"5,muthaya street chennai 600561",170,grade1,formalwear,38,startup,1170200,minato,winter,1,19-12-2022,godinesh997@gmail.com,115486345,12-05-2029,closed,null

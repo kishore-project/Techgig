@@ -1,0 +1,99 @@
+id,BrandName,Sizes1,Sizes2,Sizes3,Sizes4,Gender,Currency,MRP,Discount,SellPrice,Wear Type,Category,Sleeves,Images,Quantity,TotQun,ExpDate,UpdDate,ClothName
+1,croc,32,36,38,34,male,Rs,1282,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit.jpg,150,52,29-01-2024,null,RedcrossPite
+2,croc,32,36,38,34,male,Rs,1282,40%,2449,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(2).jpg,150,52,30-01-2024,null,GarpSuits
+3,croc,32,36,38,34,male,Rs,1282,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(3).jpg,150,52,31-01-2024,null,Acepotagasloma
+4,croc,32,36,38,34,male,Rs,1282,40%,1379,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(4).jpg,458,42,01-02-2024,null,BlueBlazzer
+5,croc,32,36,38,34,male,Rs,1282,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(5).jpg,458,42,02-02-2025,null,GreyBlazzer
+6,croc,32,36,38,34,male,Rs,1282,40%,1615,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(6).jpg,458,42,03-02-2025,null,Brownbastblazer
+7,croc,32,36,38,34,male,Rs,1282,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(7).jpg,127,42,04-02-2025,null,DarkBrownBlast
+8,croc,32,36,38,34,male,Rs,1500,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(8).jpg,127,42,05-02-2025,null,Bluebast
+9,croc,32,36,38,34,male,Rs,1500,40%,839,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(9).jpg,127,20,06-02-2025,null,GreyMana
+10,croc,32,36,38,34,male,Rs,1500,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(10).jpg,127,20,07-02-2025,null,BlammerBlue
+11,croc,32,36,38,34,male,Rs,1500,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(11).jpg,127,20,08-02-2025,null,Greymema
+12,croc,32,36,38,34,male,Rs,1500,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(12).jpg,127,20,09-02-2026,null,AnancSuits
+13,croc,32,36,38,34,male,Rs,1500,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(13).jpg,127,20,10-02-2026,null,GinaSuits
+14,croc,32,36,38,34,male,Rs,1500,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(14).jpg,127,83,11-02-2026,null,Darkg
+15,croc,32,36,38,34,male,Rs,1500,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(15).jpg,127,83,12-02-2026,null,Melious
+16,croc,32,36,38,34,male,Rs,1500,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(16).jpg,127,83,13-02-2026,null,LitenSteck
+17,croc,32,36,38,34,male,Rs,1800,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(17).jpg,127,70,14-02-2026,null,Macknie
+18,croc,32,36,38,34,male,Rs,1800,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(18).jpg,127,70,15-02-2026,null,Dadie
+19,croc,32,36,38,34,male,Rs,1800,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(19).jpg,127,52,29-01-2024,null,Limnen
+20,croc,32,36,38,34,male,Rs,1800,40%,2449,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(20).jpg,127,52,30-01-2024,null,Fijo
+21,croc,32,36,38,34,male,Rs,1800,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(21).jpg,127,52,31-01-2024,null,Netag
+22,croc,32,36,38,34,male,Rs,1800,40%,1379,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(22).jpg,127,42,01-02-2024,null,Belatal
+23,croc,32,36,38,34,male,Rs,1800,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(23).jpg,695,42,02-02-2025,null,Benin
+24,croc,32,36,38,34,male,Rs,1800,40%,1615,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(24).jpg,695,42,03-02-2025,null,Xeno
+25,croc,32,36,38,34,male,Rs,1800,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(25).jpg,695,42,04-02-2025,null,Petliert
+26,croc,32,36,38,34,male,Rs,1800,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(26).jpg,695,42,05-02-2025,null,Macnomat
+27,croc,32,36,38,34,male,Rs,1800,40%,839,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(27).jpg,695,20,06-02-2025,null,Deminhos
+28,croc,32,36,38,34,male,Rs,1800,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(28).jpg,695,20,07-02-2025,null,Iostala
+29,croc,32,36,38,34,male,Rs,1600,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(29).jpg,695,20,08-02-2025,null,Qumist
+30,croc,32,36,38,34,male,Rs,1600,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(30).jpg,695,20,09-02-2026,null,Mcqunic
+31,croc,32,36,38,34,male,Rs,1600,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(31).jpg,695,20,10-02-2026,null,Ucqnic
+32,croc,32,36,38,34,male,Rs,1600,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(32).jpg,695,83,11-02-2026,null,Rogerking
+33,croc,32,36,38,34,male,Rs,1600,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(33).jpg,695,83,12-02-2026,null,WhiteBeardSuit
+34,croc,32,36,38,34,male,Rs,1600,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(34).jpg,695,83,13-02-2026,null,Zorolin
+35,croc,32,36,38,34,male,Rs,1600,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(35).jpg,695,70,14-02-2026,null,LuffyBuck
+36,croc,32,36,38,34,male,Rs,1600,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(36).jpg,695,70,15-02-2026,null,Sanjilin
+37,croc,32,36,38,34,male,Rs,1600,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(37).jpg,695,70,15-02-2026,null,Usoopkem
+38,croc,32,36,38,34,male,Rs,1700,40%,2449,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(38).jpg,695,70,15-02-2026,null,NamisamSuit
+39,croc,32,36,38,34,male,Rs,1700,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(39).jpg,695,70,15-02-2026,null,Zetterlib
+40,croc,32,36,38,34,male,Rs,1700,40%,1379,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(40).jpg,695,52,16-02-2026,null,Lavenders suit
+41,croc,32,36,38,34,male,Rs,1700,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Msuit(41).jpg,852,52,17-02-2026,null,Grey suit
+42,croc,32,36,38,34,female,Rs,1700,40%,1615,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit.jpg,852,52,18-02-2026,null,Blackcotton suit
+43,croc,32,36,38,34,female,Rs,1700,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(2).jpg,852,42,19-02-2026,null,Grey suit
+44,croc,32,36,38,34,female,Rs,1700,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(3).jpg,852,42,20-02-2026,null,Greypolished suit
+45,croc,32,36,38,34,female,Rs,100,40%,839,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(4).jpg,852,42,21-02-2026,null,Greenslim suit
+46,croc,32,36,38,34,female,Rs,100,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(5).jpg,852,42,22-02-2026,null,Blackslim suit
+47,croc,32,36,38,34,female,Rs,100,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(6).jpg,852,42,23-02-2026,null,Greycotton suit
+48,croc,32,36,38,34,female,Rs,100,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(7).jpg,695,20,24-02-2026,null,Blackcotton suit
+49,croc,32,36,38,34,female,Rs,100,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(8).jpg,695,20,25-02-2026,null,Red suit
+50,croc,32,36,38,34,female,Rs,100,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(9).jpg,695,20,26-02-2026,null,Greycotton suit
+51,croc,32,36,38,34,female,Rs,100,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(10).jpg,695,20,27-02-2026,null,Blazer
+52,croc,32,36,38,34,female,Rs,100,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(11).jpg,695,20,28-02-2026,null,Greywoolblazer
+53,croc,32,36,38,34,female,Rs,100,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(12).jpg,695,83,01-03-2026,null,Blackleatherblazer
+54,croc,32,36,38,34,female,Rs,100,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(13).jpg,695,83,02-03-2026,null,Leatherblazer
+55,croc,32,36,38,34,female,Rs,100,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(14).jpg,695,83,03-03-2026,null,Cottonblackblazer
+56,croc,32,36,38,34,female,Rs,150,40%,2449,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(15).jpg,852,70,04-03-2026,null,Cottonblackblazer
+57,croc,32,36,38,34,female,Rs,150,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(16).jpg,852,70,05-03-2026,null,Redsilkblazer
+58,croc,32,36,38,34,female,Rs,150,40%,1379,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(17).jpg,852,52,06-03-2026,null,Woolblazer
+59,croc,32,36,38,34,female,Rs,150,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(18).jpg,852,52,07-03-2026,null,Blackwoolblazer
+60,croc,32,36,38,34,female,Rs,150,40%,1615,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(19).jpg,852,52,08-03-2026,null,Silkblazer
+61,croc,32,36,38,34,female,Rs,150,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(20).jpg,852,42,09-03-2026,null,Skybluecottonblazer
+62,croc,32,36,38,34,female,Rs,150,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(21).jpg,695,42,10-03-2026,null,Redleatherblazer
+63,croc,32,36,38,34,female,Rs,150,40%,839,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(22).jpg,695,42,11-03-2026,null,Blackwoolblazer
+64,croc,32,36,38,34,female,Rs,150,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(23).jpg,695,42,12-03-2026,null,Bastblazer
+65,croc,32,36,38,34,female,Rs,150,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(24).jpg,695,42,12-03-2026,null,Bastblazer
+66,croc,32,36,38,34,female,Rs,150,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(25).jpg,695,42,12-03-2026,null,Lavenders suit
+67,croc,32,36,38,34,female,Rs,1282,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(26).jpg,695,42,12-03-2026,null,Blackleather suit
+68,croc,32,36,38,34,female,Rs,1282,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(27).jpg,695,42,12-03-2026,null,Blackleather suit
+69,croc,32,36,38,34,female,Rs,1282,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(28).jpg,695,42,12-03-2026,null,Redwoolblazer
+70,croc,32,36,38,34,female,Rs,1282,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(29).jpg,852,42,12-03-2026,null,Bluecotton suit
+71,croc,32,36,38,34,female,Rs,1282,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(30).jpg,852,42,12-03-2026,null,Skybluecottonblazer
+72,croc,32,36,38,34,female,Rs,1282,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(31).jpg,852,42,12-03-2026,null,Bluesilk suit
+73,croc,32,36,38,34,female,Rs,1282,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(32).jpg,852,42,12-03-2026,null,Lavendersilks suit
+74,croc,32,36,38,34,female,Rs,1500,40%,2449,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(33).jpg,852,42,12-03-2026,null,Bluewool suit
+75,croc,32,36,38,34,female,Rs,1500,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(34).jpg,852,42,12-03-2026,null,Whitesilk suit
+76,croc,32,36,38,34,female,Rs,1500,40%,1379,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(35).jpg,150,42,12-03-2026,null,Skybluecottonblazer
+77,croc,32,36,38,34,female,Rs,1500,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(36).jpg,150,42,13-03-2026,null,Skybluecottonblazer
+78,croc,32,36,38,34,female,Rs,1500,40%,1615,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(37).jpg,150,42,14-03-2026,null,Printedblazer
+79,croc,32,36,38,34,female,Rs,1500,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(38).jpg,458,20,15-03-2026,null,Greyleather suit
+80,croc,32,36,38,34,female,Rs,1500,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(39).jpg,458,20,16-03-2026,null,Blacksilkblazer
+81,croc,32,36,38,34,female,Rs,1500,40%,839,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(40).jpg,458,20,17-03-2026,null,Blackcotton suit
+82,croc,32,36,38,34,female,Rs,1500,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(41).jpg,127,20,18-03-2026,null,Blackcotton suit
+83,croc,32,36,38,34,female,Rs,1800,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(42).jpg,127,20,19-03-2026,null,Bluesilk suit
+84,croc,32,36,38,34,female,Rs,1800,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(43).jpg,127,83,20-03-2026,null,Greyslimfit suit
+85,croc,32,36,38,34,female,Rs,1800,40%,749,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(44).jpg,127,83,21-03-2026,null,Leatherblazer
+86,croc,32,36,38,34,female,Rs,1800,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(45).jpg,127,83,22-03-2026,null,blazer
+87,croc,32,36,38,34,female,Rs,1800,40%,499,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(46).jpg,127,70,23-03-2026,null,Skybluefitblazer
+88,croc,32,36,38,34,female,Rs,1800,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(47).jpg,127,70,24-03-2026,null,Greensilk suit
+89,croc,32,36,38,34,female,Rs,1800,40%,299,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(48).jpg,127,52,25-03-2026,null,Blueleather suit
+90,croc,32,36,38,34,female,Rs,1800,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(49).jpg,127,52,26-03-2026,null,Greysilkblazer
+91,croc,32,36,38,34,female,Rs,1800,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(50).jpg,127,52,27-03-2026,null,Bluewoolsilkblazer
+92,croc,32,36,38,34,female,Rs,1800,40%,2449,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(51).jpg,127,42,28-03-2026,null,Blueleather suit
+93,croc,32,36,38,34,female,Rs,1800,40%,599,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(52).jpg,127,42,29-03-2026,null,Brownbastblazer
+94,croc,32,36,38,34,female,Rs,1800,40%,1379,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(53).jpg,127,42,30-03-2026,null,Greycottonblazer
+95,croc,32,36,38,34,female,Rs,1600,40%,849,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(54).jpg,127,42,31-03-2026,null,Pinksilk suit
+96,croc,32,36,38,34,female,Rs,1600,40%,1615,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(55).jpg,127,42,01-04-2026,null,Blueleather suit
+97,croc,32,36,38,34,female,Rs,1600,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(56).jpg,127,20,02-04-2026,null,Bluecottonblazer
+98,croc,32,36,38,34,female,Rs,1600,40%,649,suits,Westernwear,long,img_Ordclients/clientOrd/croc_Wsuit(57).jpg,695,20,03-04-2026,null,Bluecottonblazer
